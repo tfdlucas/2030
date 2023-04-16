@@ -1,0 +1,11 @@
+Usar quando souber o numero de vezes que a tarefa sera executada
+
+For necessita de 3 parametros:
+
+for (p1;p2;p3) {
+    comandos
+}
+
+p1 = Inicialização do contador
+p2 = Condição de execução do loop
+p3 = Incremento ou decremento do contador

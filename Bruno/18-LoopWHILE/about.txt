@@ -1,0 +1,12 @@
+Usar quando não souber o número de vezes que a tarefa devera ser repetida
+
+p1 = inicialização do contador
+p2 = condição de execução do loop
+p3 = incremento ou decremento
+
+
+p1;
+while (p2) {
+    comandos;
+    p3;
+}

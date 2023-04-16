@@ -1,0 +1,7 @@
+Primeiro ele execcuta os comandos do bloco e depois ele faz o teste
+Isso garante que os comandos do bloco serão executados pelo menos uma vez
+
+num = 10;
+do {
+    comandos
+} while (num < 5);

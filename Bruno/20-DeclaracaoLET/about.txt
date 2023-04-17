@@ -1,0 +1,2 @@
+var é uma variavel global
+let só tera relevancia dentro do escopo em que esta inserido

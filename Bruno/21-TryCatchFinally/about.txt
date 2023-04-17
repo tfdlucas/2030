@@ -1,0 +1,8 @@
+A rotina passivel de erro é inserida dentro do try
+Se acontece um erro, é gerado uma excessao que é passada para dentro do catch
+Try é interrompido imediatamente
+E a excessao é passada para a váriavel
+Finally sera exibido com ou sem erro
+
+variavel.message = exibe o erro
+throw gera uma excessao

@@ -1,0 +1,12 @@
+1 - Terminal:
+Abrir caminho ate chegar no arquivo js
+Digitar na pasta do arquivo "Node script.js"
+
+2 - Navegador barra:
+localhost: numero do servidor em que esta sendo executado
+
+ou
+
+127.0.0.1:numero da posta em que esta sendo executado
+
+Após alterar algo no servidor precisa dar um CTRL+C no terminal para parar o servidor, em seguida executar passo 1 de novo

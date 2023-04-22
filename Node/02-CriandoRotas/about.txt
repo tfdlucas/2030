@@ -1,0 +1,2 @@
+Trabalha fornecendos diferentes caminhos e rotas na url
+ex: rota cursos, rota pdfs.

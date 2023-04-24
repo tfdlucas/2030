@@ -15,4 +15,4 @@ const servidor = http.createServer((req, res) => {
 });
 
 servidor.listen(porta, host,() => { console.log('Servidor rodando...')});
-                //     host não é obrigatório
+    //     host não é obrigatório

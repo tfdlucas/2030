@@ -1,0 +1,9 @@
+getDay(); retorna dia semana
+getDate(); retorna dia do mes
+getMonth(); retorna o mes
+getFullYear(); retorna o ano com 4 digitos
+getHours(); retorna a hora
+getMinutes(); retorna os minutos
+getSeconds(); retorna os segundos
+toDateString(); retorna a data por estencil, padrao EUA
+toLocaleString(); Retorna a data e a hora

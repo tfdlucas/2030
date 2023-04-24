@@ -1,0 +1,31 @@
+CONSTANTE
+
+Math.E torna o numero Euler
+Math.PI retorna o numero PI
+Math.SQRT2 retorna a raiz quadrada de 2
+Math.SQRT1_2 retorna a raiz quadrada de 1/2
+Math.LN2 retorna o logaritmo natural de 2
+Math.LN10 retorna o logaritmo natural de 10
+Math.LOG2E retorna base 2 do logaritmo de E
+Math.LOG10E retorna base decimal do logaritmo de E 
+
+MÉTODO
+
+abs(x) valor absoluto de x
+acos(x) arco cosseno de x
+asin(x) arco seno de x
+atan(x) tangente de x como um valor numerico entre PI/2 e PI/2 radiano
+atan2(y, x) tangente do quociente dos argumentos y e x
+ceil(x) valor de x arredondado para cima
+cis(x) cosseno de x em radianos
+exp(x) valor de Ex
+floor(x) valor de x arredondado para baixo
+log(x) logaritmo natural (base E) de x
+max(x, y,z,...,n) retorna o maior dos argumentos
+min(x, y,z,...,n) retorna o menor dos argumentos
+pow(x, y) valor de x elevado a y
+random() gera um numero aleatorio entre 0 e 1
+round(x) gera o inteiro mais proximo, arredonda para cima ou para baixo
+sin(x) seno de x em radianos
+sqrt(x) raiz quadrada de x
+tan(x) tangente do angulo x

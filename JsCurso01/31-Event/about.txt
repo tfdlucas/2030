@@ -1,0 +1,31 @@
+EVENTOS DE MOUSE
+
+onclick - Quando clica em um elemento.
+oncontextmenu - Quando clica com o botao direito do mouse.
+ondblclick - Quando um clique duplo em um elemento.
+onmousedown - Quando botao pressionado em um elemento.
+onmouseenter - Quando o ponteiro do mouse se move para cima de um elemento.
+onmouseleave - Quando o ponteiro do mouse se move para fora de um elemento.
+onmouseover - Quando o ponteiro do mouse se move para fora de um elemento ou de um de seus filhos.
+onmouseout - Quando o ponteiro do mouse é movido para fora de um elemento ou de um de seus filhos.
+onmouseup - Evento disparado quando o botao do mouse é liberado sobre um elemento.
+
+EVENTOS DE TECLADO
+
+onkeydown - Evento disparado quando o usuario pressiona uma tecla.
+onkeypress - Quando o usuario mantem uma tecla pressionada.
+onkeyup- Quando o usuario libera uma tecla pressionada.
+
+EVENTOS DE OBJETOS/FRAMES/BODY
+
+onabort - Quando o carregamento do elemento é abortado.
+onbeforeunload - Evento disparado antes do documento ser fechado/descarregado.
+onerror - Disparado quando ocorre erro no carregamento de arquivos externos.
+onhashchange - Quando ocorre alguma alteraçao da ancora da URL.
+onload - Disparado quando um elemento é carregado.
+onpageshow - Quando uma pagina é mostrada.
+onpagehide - Quando uma pagina deixa de ser mostrada.
+onresize - Quando o elemento é redimensionado.
+onscroll - Quando a pagina é rolada.
+onunload - Quando a pagina é fechada/descarregada
+

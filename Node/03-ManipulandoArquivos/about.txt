@@ -1,0 +1,3 @@
+openFile = cria o arquivo
+appendFile = ele anexa o arquivo, se o arquivo nao existir ele cria
+readFile = faz a leitura de um arquivo existente

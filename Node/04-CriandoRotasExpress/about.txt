@@ -1,0 +1,6 @@
+- INSTALAR EXPRESS
+
+abrir pasta atraves do prompt e digitar:
+npm install express --save
+
+process.env.PORT  = isso facilita no caso de nao saber em qual porta a aplicação esta rodando no servidor, ele pega essa porta da aplicação e ja joga nessa mesma variavel

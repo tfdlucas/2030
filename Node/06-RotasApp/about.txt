@@ -1,0 +1,1 @@
+Criar um arquivo externo de rota, programar todo o conteudo das rotas dentro desse arquivo, e fazer a requisição desse arquivo de rotas no arquivo principal da api, usando express.

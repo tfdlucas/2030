@@ -1,9 +1,10 @@
 // 37 - Esquerda 38 - Cima 39 - Direita 40 - Baixo
 let x = 0;
 let y = 0;
+let obj;
 
 function move() {
-    let obj = document.getElementById("dv1");
+    obj = document.getElementById("dv1");
     let tecla = event.keyCode;
 
     if (tecla == 37) {
@@ -19,9 +20,20 @@ function move() {
         y += 10;
         obj.style.top = y + "px";
     } else if (tecla == 13) { // 13 = Tecla Enter
+        obj.style.backgroundColor = "#fff";
         alert("Evento keydown Removido");
         document.removeEventListener("keydown", move);
     }
 }
 
-document.addEventListener("keydown", move);
+function addClick() {
+    document.addEventListener("keydown", move);
+    obj.style.backgroundColor = "#f00";
+}
+
+function iniciar() {
+    obj = document.getElementById("dv1");
+    obj.addEventListener("click", addClick);
+}
+
+window.addEventListener("load", iniciar);

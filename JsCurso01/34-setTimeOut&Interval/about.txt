@@ -1,0 +1,3 @@
+setTimeOut - determina uma funcao que vai ser chamada, e um tempo para essa função ser chamada, após esse tempo, ele chama a função, executa e acaba.
+
+setInteral - recebe uma função callback, e um tempo de execução, porem, a cada ciclo do tempo definido vai chamar a função callback
